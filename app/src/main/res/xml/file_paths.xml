@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <cache-path name="audio_cache" path="narrations/" />
+    <files-path name="audio_files" path="narrations/" />
+    <external-files-path name="audio_ext" path="narrations/" />
+    <external-cache-path name="audio_ext_cache" path="narrations/" />
+</paths>
